@@ -111,6 +111,8 @@ When prompted:
 ```
 Paste your HF token and press Enter.
 
+Note - wen you paste your hf token than you were not able to see it but it will pasted already so doesn't mean its not paste
+
 
 
 
