@@ -2,10 +2,6 @@
   <img src="https://blog.gensyn.ai/content/images/2025/11/CodeAssist-Blog.jpg" width="800" height="750" />
 </p>
 
-<p align="center">
-  <img src="assets/codeassist-banner.png" width="100%" />
-</p>
-
 <h1 align="center">🚀 Gensyn CodeAssist — Local Setup Guide</h1>
 
 ---
