@@ -58,25 +58,58 @@ Run these commands exactly in your Ubuntu terminal:
 ```bash
 sudo apt update && sudo apt upgrade -y
 ```
+
 ##  2️⃣ Install Docker + Enable Docker Service
 ```bash
 sudo apt install docker.io -y
 sudo systemctl enable docker
 sudo service docker start
 ```
+
 ## 3️⃣ Check Docker Version
 ```bash
 docker --version
 ```
+
 ## 4️⃣ Install Python 3 + PIP
 ```bash
 sudo apt install python3 python3-pip -y
 ```
+
 ## 5️⃣ Verify Python & PIP
 ```bash
 python3 --version
 pip3 --version
 ```
+
+## 6️⃣ Install UV Package Manager
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+## 7️⃣ Verify UV Installation
+```bash
+uv --version
+```
+
+## 8️⃣ Clone CodeAssist Repository
+```bash
+git clone https://github.com/gensyn-ai/codeassist.git
+cd codeassist
+
+```
+
+## 9️⃣ Start CodeAssist
+```bash
+uv run run.py
+```
+
+## 🔟 Enter Your HuggingFace Token
+When prompted:
+Ex - HuggingFace token:
+Paste your HF token and press Enter.
+
+
 
 
 
