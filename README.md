@@ -106,7 +106,9 @@ uv run run.py
 
 ## 🔟 Enter Your HuggingFace Token
 When prompted:
-Ex - HuggingFace token:
+```bash
+ HuggingFace token:
+```
 Paste your HF token and press Enter.
 
 
