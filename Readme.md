@@ -103,6 +103,7 @@ cd codeassist
 ```bash
 uv run run.py
 ```
+<img src="https://pbs.twimg.com/media/G5qKt1SboAAOlCD?format=png&name=small" width="650" height="650" />
 
 ## 🔟 Enter Your HuggingFace Token
 When prompted:
