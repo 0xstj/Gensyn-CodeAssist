@@ -44,7 +44,7 @@ Before installing, ensure your system meets the following:
 | **Python3** | 3.8+ | UV runner |
 | **pip3** | Latest | Python packages |
 | **uv (Astral)** | Latest | Executes run.py |
-| **Hugging Face Token** | Optional | Model downloads/uploads |
+| **Hugging Face Token** | Create new | Model downloads/uploads |
 
 ---
 
